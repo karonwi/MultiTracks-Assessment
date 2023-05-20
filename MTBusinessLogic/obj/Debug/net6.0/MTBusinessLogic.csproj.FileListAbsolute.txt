@@ -1,0 +1,17 @@
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTBusinessLogic.deps.json
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTBusinessLogic.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTBusinessLogic.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTDomain.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTDto.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTDomain.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\bin\Debug\net6.0\MTDto.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.AssemblyInfo.cs
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.csproj.CopyComplete
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\refint\MTBusinessLogic.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\MTBusinessLogic.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTBusinessLogic\obj\Debug\net6.0\ref\MTBusinessLogic.dll

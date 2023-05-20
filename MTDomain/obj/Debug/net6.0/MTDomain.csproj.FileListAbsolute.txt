@@ -1,0 +1,12 @@
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\bin\Debug\net6.0\MTDomain.deps.json
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\bin\Debug\net6.0\MTDomain.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\bin\Debug\net6.0\MTDomain.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.csproj.AssemblyReference.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.AssemblyInfoInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.AssemblyInfo.cs
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.csproj.CoreCompileInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\refint\MTDomain.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\MTDomain.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDomain\obj\Debug\net6.0\ref\MTDomain.dll

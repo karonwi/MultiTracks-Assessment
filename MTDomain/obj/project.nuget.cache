@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZT1uTnog8HKuaH1Db0FVgZGMeK5yUH2QBmdPMFYoVePOd+buCqXT9uNaAiOpoaexAu4xpJhSO9GzuOhLwRtRKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skaronwi\\Documents\\Troj\\Assess\\.net\\MTDomain\\MTDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skaronwi\\.nuget\\packages\\npoco\\5.7.1\\npoco.5.7.1.nupkg.sha512",
+    "C:\\Users\\skaronwi\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\skaronwi\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

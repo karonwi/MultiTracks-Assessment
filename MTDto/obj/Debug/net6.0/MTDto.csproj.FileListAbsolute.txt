@@ -1,0 +1,12 @@
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\bin\Debug\net6.0\MTDto.deps.json
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\bin\Debug\net6.0\MTDto.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\bin\Debug\net6.0\MTDto.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.csproj.AssemblyReference.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.AssemblyInfoInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.AssemblyInfo.cs
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.csproj.CoreCompileInputs.cache
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\refint\MTDto.dll
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\MTDto.pdb
+C:\Users\skaronwi\Documents\Troj\Assess\.net\MTDto\obj\Debug\net6.0\ref\MTDto.dll
